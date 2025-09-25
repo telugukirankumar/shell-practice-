@@ -11,5 +11,5 @@ if [ $? -ne 0 ]; then
     echo "mysql installation failed"
     exit 1
 else 
-    echo "mysql installed successfully"
+    echo "mysql installed successfully bro"
 fi   
